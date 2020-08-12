@@ -4,3 +4,22 @@ nav{
 li{
     font-size: 1.5em;
 }
+h1{
+    font-weight: 100;
+    font-size: 4vmax;
+}
+p{
+    font-size: 3vmin;
+}
+div.jumbotron{
+    margin-bottom: 0;
+}
+.photo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.learnMore{
+    background-color: #1C2331;
+}
