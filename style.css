@@ -30,3 +30,9 @@ div.jumbotron{
 .footerBottom{
     background-color: #1C2331;
 }
+span{
+    color: #1C2331;
+}
+.carousel-control{
+    opacity: 1;
+}
