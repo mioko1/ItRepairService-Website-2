@@ -36,3 +36,8 @@ span{
 .carousel-control{
     opacity: 1;
 }
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
