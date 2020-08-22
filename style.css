@@ -1,8 +1,14 @@
 nav, footer{
     background-color: #3F729B;
 }
+ul{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
 li{
     font-size: 1.5em;
+    padding-right: 1vw;
 }
 h1{
     font-weight: 100;
@@ -41,3 +47,15 @@ span{
     justify-content: center;
     align-items: center;
 }
+/*li:last-child{
+    position: relative;
+    right: 100px;
+}
+footer{
+    position: relative;
+    //bottom: 0vh;
+    box-sizing: content-box;
+}
+
+
+*/
