@@ -1,6 +1,9 @@
 nav, footer{
     background-color: #3F729B;
 }
+.navbar{
+    margin-bottom: 0 !important;
+}
 ul{
     width: 100%;
     display: flex;
